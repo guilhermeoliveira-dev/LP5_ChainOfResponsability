@@ -1,6 +1,6 @@
-# Projeto_Base_LP5 
+# LP5_ChainOfResponsibility
 
-Este projeto visa servir como base para as atividades feitas para a disciplina de Linguagem de Programação 5, que tem como intuito desenvolver padrões de projeto em java, incluindo testes e diagramas de classe como documentação.
+Neste projeto, implementamos o padrão Chain of Responsibility usando um sistema de controle de orçamentos em uma hierarquia empresarial. 
 
 ## Diagrama de Classe
 
